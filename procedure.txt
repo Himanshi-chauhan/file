@@ -1,0 +1,9 @@
+create table => routines =>add routines 
+=> fill out fields => click on drop => in add parameter written query
+select * from table_name
+=>now procedure is add in routines
+=> go to table nd insert values in the table
+=> click on execute
+=> make one more procedure
+=>execute 
+=>fill the id  in value field then check that value show in procedure or not
